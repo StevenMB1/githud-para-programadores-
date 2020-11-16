@@ -2,4 +2,6 @@
 
 githud para desarrolladores
 
-[Visita mi blog](https://www.google.com/)
+[Esto es un enlace](https://www.google.com/)
+
+[Esto es otro enlace](https://www.linkedin.com/learning/github-para-programadores-2/editar-archivos-en-github)
